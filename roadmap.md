@@ -1,12 +1,12 @@
-# 90-Day Roadmap
+# Roadmap
 
-| Phase | Days | Project | Status |
-|---|---|---|---|
-| 1 | 1–21 | Secure AWS Foundations Lab | 🔄 In Progress |
-| 2 | 22–42 | Detection and Response Lab | ⏳ Not started |
-| 3 | 43–66 | Secure Web App on AWS | ⏳ Not started |
-| 4 | 67–90 | IaC Security Capstone | ⏳ Not started |
+Four projects, built one at a time. Each one finishes before the next one starts.
 
-**Current day:** 1
-**Current project:** Project 1 — Secure AWS Foundations Lab
-**Last updated:** 2026-05-06
+| # | Project |
+|---|---|
+| 1 | Secure AWS Foundations Lab |
+| 2 | Detection and Response Lab |
+| 3 | Secure Web App on AWS |
+| 4 | IaC Security Capstone |
+
+Working on Project 1 right now.

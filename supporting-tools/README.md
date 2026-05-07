@@ -1,14 +1,11 @@
-# Supporting Tools
+# Other Tools
 
-These tools were built separately during my AWS security learning journey.
-They are not the main portfolio projects but demonstrate additional
-Python scripting and AWS security knowledge.
+Three Python scripts I built while learning AWS security. Each one runs against a live AWS account and flags real issues.
 
-| Repo | What it does |
+| Tool | What it does |
 |---|---|
-| [aws-security-auditor](https://github.com/Randalls59/aws-security-auditor) | CLI scanner for S3, IAM, EC2, and CloudTrail misconfigurations with prioritized remediation |
-| [iam-policy-analyzer](https://github.com/Randalls59/iam-policy-analyzer) | Detects wildcard actions and over-permissive IAM policies across users, roles, and groups |
-| [cloudtrail-threat-detector](https://github.com/Randalls59/cloudtrail-threat-detector) | Hunts threats in CloudTrail logs — root usage, brute force, privilege escalation, high-risk API calls |
+| [aws-security-auditor](https://github.com/Randalls59/aws-security-auditor) | Scans S3, IAM, EC2, and CloudTrail for misconfigurations |
+| [iam-policy-analyzer](https://github.com/Randalls59/iam-policy-analyzer) | Finds overly permissive IAM policies — wildcards, admin access, least-privilege violations |
+| [cloudtrail-threat-detector](https://github.com/Randalls59/cloudtrail-threat-detector) | Reads CloudTrail logs and flags root usage, brute force, and privilege escalation |
 
-These tools will be formally documented and integrated into
-Project 2 (Detection and Response Lab) starting Day 22.
+I'll bring these into Project 2 with full documentation once Project 1 is done.

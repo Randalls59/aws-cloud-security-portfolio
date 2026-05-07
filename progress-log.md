@@ -1,7 +1,10 @@
 # Progress Log
 
-## Day 1 — 2026-05-06
-**Session goal:** GitHub repo creation + IAM setup
-**Status:** In progress
-**Completed:** (filled in after session)
-**Next session starts at:** (filled in after session)
+Running notes — what I finished, what I'm picking up next.
+
+---
+
+## May 6, 2026
+
+Set up the GitHub repo and folder structure for all four projects.
+Starting IAM setup next session.
